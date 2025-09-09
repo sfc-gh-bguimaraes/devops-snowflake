@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - 'migrations/**'
-      - '/**'
+      - 'codigos/**'
       
 
   # Allows you to run this workflow manually from the Actions tab
