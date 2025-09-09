@@ -1,0 +1,8 @@
+docker run -p 8080:8080 \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  --name jenkins \
+  jenkins
+
+
+
+  21fbf664a6dd462d8b853b9c820b84db
